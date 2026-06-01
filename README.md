@@ -4,14 +4,14 @@ Bem-vindo ao meu repositório de estudos do curso **Oracle Java Foundations**.
 
 Este espaço foi criado para documentar minha evolução no aprendizado da linguagem Java, desde os conceitos fundamentais até a construção de projetos mais estruturados.
 
-## 🎯 Objetivo
+## Objetivo
 
 Desenvolver uma base sólida em programação utilizando Java, praticando lógica, orientação a objetos, estruturas de dados e boas práticas de desenvolvimento.
 E obter o certificado ORACLE JAVA - Foundations 
 
-## 📚 Conteúdos Estudados
+##  Conteúdos Estudados
 
-### ✅ Fundamentos da Programação
+### Fundamentos da Programação
 
 * Variáveis e Tipos de Dados
 * Operadores
@@ -19,7 +19,7 @@ E obter o certificado ORACLE JAVA - Foundations
 * Conversão de Tipos
 * Expressões e Cálculos
 
-### ✅ Estruturas de Controle
+### Estruturas de Controle
 
 * Condicionais (`if`, `else`, `switch`)
 * Operador Ternário
@@ -29,20 +29,20 @@ E obter o certificado ORACLE JAVA - Foundations
   * `while`
   * `do while`
 
-### ✅ Métodos
+### Métodos
 
 * Criação de Métodos
 * Parâmetros
 * Retorno de Valores
 * Organização de Código
 
-### ✅ Arrays e Coleções
+### Arrays e Coleções
 
 * Arrays Unidimensionais
 * Matrizes
 * Manipulação de Dados
 
-### 🚧 Orientação a Objetos
+###  Orientação a Objetos
 
 * Classes
 * Objetos
@@ -51,7 +51,7 @@ E obter o certificado ORACLE JAVA - Foundations
 * Herança
 * Polimorfismo
 
-### 🚧 Estruturas de Dados
+###  Estruturas de Dados
 
 * Listas
 * Pilhas
@@ -67,7 +67,7 @@ E obter o certificado ORACLE JAVA - Foundations
 * Linux Fedora
 * IntelliJ IDEA
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```text
 LABJAVA/
@@ -75,7 +75,7 @@ LABJAVA/
 ├── Lab.java...
 ```
 
-## 🚀 Objetivos Durante o Curso
+## Objetivos Durante o Curso
 
 * [X] Dominar os fundamentos da linguagem Java
 * [X] Desenvolver lógica de programação avançada
@@ -88,3 +88,6 @@ LABJAVA/
 Este repositório será atualizado constantemente conforme avanço nos estudos e concluo novos módulos do curso
 
 ---
+## Julia Victória
+
+![PUCPR](https://img.shields.io/badge/PUCPR-Ciência%20da%20Computação-blue?style=for-the-badge)
