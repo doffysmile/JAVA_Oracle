@@ -62,8 +62,6 @@ E obter o certificado ORACLE JAVA - Foundations
 
 * Java
 * JDK
-* Git
-* GitHub
 * Linux Fedora
 * IntelliJ IDEA
 
