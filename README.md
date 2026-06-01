@@ -58,7 +58,7 @@ E obter o certificado ORACLE JAVA - Foundations
 * Filas
 * Busca e Ordenação
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * Java
 * JDK
